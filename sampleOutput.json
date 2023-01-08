@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "Damar Hamlin’s recovery inspiring good deeds, donations",
+      "description": "The recovery of Buffalo Bills safety Damar Hamlin, after he suffered a cardiac arrest on the field during a football game Monday night, is inspiring the NFL and local communities nationwide to spread goodwill to each other and beyond. Michael George has the d…",
+      "url": "https://www.cbsnews.com/video/damar-hamlins-recovery-inspiring-good-deeds-donations/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/08/374d45f8-8501-441b-9b48-4a5309690291/thumbnail/1200x630/d63f8bbc50881ddba29f92805eeafffa/george-1605892-640x360.jpg",
+      "publishedAt": "2023-01-08T00:53:27+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": { "id": "breitbart-news", "name": "Breitbart News" },
+      "author": "Ethan Letkeman",
+      "title": "Las Vegas High School Student Collapses, Dies After Playing Flag Football",
+      "description": "A 16-year-old student died after suffering a \"medical emergency\" during a flag football game Thursday in Las Vegas.",
+      "url": "https://www.breitbart.com/health/2023/01/07/las-vegas-high-school-student-collapses-dies-after-playing-flag-football/",
+      "urlToImage": "https://media.breitbart.com/media/2023/01/Ashari-Hughes-640x335.jpg",
+      "publishedAt": "2023-01-07T22:23:22Z",
+      "content": "A 16-year-old student died after suffering a “medical emergency” during a flag football game Thursday in Las Vegas.\r\nAshari Hughes, a sophomore at Desert Oasis High School, was playing in a home game… [+1745 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "Bryan Fischer",
+      "title": "College Football Playoff national championship: Top matchups to watch",
+      "description": "These are the individual matchups that will have a crucial impact on Monday's College Football Playoff Championship Game.",
+      "url": "http://www.foxsports.com/stories/college-football/college-football-playoff-national-championship-top-matchups-to-watch",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/01/1408/814/01.06.23_Top4MatchupsCFPTitle_Horizontal.jpg?ve=1&tl=1",
+      "publishedAt": "2023-01-07T14:54:42Z",
+      "content": "LOS ANGELES It all comes down to this. One game, for it all.\r\nIts taken a long slog from August camp, some wild upsets along the way and a pair of incredible semifinals, but we have arrived at the na… [+10177 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "BR NFL Scouting Department",
+      "title": "2023 NFL Draft Big Board: B/R NFL Scouting Dept.'s End-of-Season Top 150",
+      "description": "Stars aligned and shone brightly on college football's biggest stage.<br>The likes of Alabama's Bryce Young, Ohio State's C.J. Stroud and TCU's Quentin...",
+      "url": "https://bleacherreport.com/articles/10060471-2023-nfl-draft-big-board-br-nfl-scouting-depts-end-of-season-top-150",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/x_3,y_99,w_1499,h_998,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/vhedg9xvsbckav1jnsij.jpg",
+      "publishedAt": "2023-01-06T13:16:49Z",
+      "content": "Ohio State QB C.J. StroudTodd Kirkland/Getty Images\r\nTies in grades were broken through roundtable discussions among the four scouts.\r\n1. Will Anderson Jr., Edge, Alabama (9.6)\r\n2. Jalen Carter, DL, … [+5912 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Brad Shepard",
+      "title": "Georgia vs. TCU: Who Has the Edge at Every Position?",
+      "description": "Entering the College Football Playoff semifinal showdown against Michigan, TCU coach <a...",
+      "url": "https://bleacherreport.com/articles/10060443-georgia-vs-tcu-who-has-the-edge-at-every-position",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1672710413/vxgcga9vqliub3e2o2xc.jpg",
+      "publishedAt": "2023-01-05T12:00:00Z",
+      "content": "Georgia's Jalen Carter has his sights set on Ohio State's C.J. Stroud. Kevin C. Cox/Getty Images\r\nA year ago, everybody knew about Georgia defensive lineman/outside linebacker Travon Walker, but he b… [+1518 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
